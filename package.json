@@ -1,0 +1,27 @@
+{
+  "name": "WakeupTimer",
+  "version": "0.1.0",
+  "description": "This plugin uses the WebAuthenticationBroker class to connect to OAuth providers.",
+  "cordova": {
+    "id": "org.nypr.cordova.wakeupplugin",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrix0123456789/cordova-plugin-wakeuptimer.git"
+  },
+  "keywords": [
+    "windows",
+    "oauth",
+    "auth",
+    "authentication"
+  ],
+  "author": "Zenput <hello@zenput.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenput/cordova-plugin-uwp-oauth/issues"
+  },
+  "homepage": "https://github.com/zenput/cordova-plugin-uwp-oauth"
+}
